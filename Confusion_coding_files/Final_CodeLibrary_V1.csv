@@ -1,0 +1,55 @@
+Group A,Group B,Group C,Theme,Code
+Unknown Cue,Unknown Cue,Unknown Cue,"No uncertainty, inconvenience, or incorrect cue ",No apparent Cue
+Unknown Cue,Before/After Interaction,Before/After Interaction,"No uncertainty, inconvenience, or incorrect cue ",Builder history
+Unknown Cue,Before/After Interaction,Before/After Interaction,"No uncertainty, inconvenience, or incorrect cue ",Warning For future
+Object State,Incorrect Object State,Incorrect Object State,Incorrect Object State,Incorrect subcomponent placement
+Object State,Incorrect Object State,Incorrect Object State,Incorrect Object State,Incorrect subcomponent orientation
+Object State,Inconvenient Object State,Inconvenient Object State,Inconvenient Object State,Inconvenient subcomponent placement
+Object State,Inconvenient Object State,Inconvenient Object State,Inconvenient Object State,Inconvenient subcomponent orientation
+Object State,Incompleteness/Reversal,Incompleteness,Incompleteness,Incomplete Step
+Object State,Incompleteness/Reversal,Reversal,reversal,Undo step
+User Inaction,Pause empty hand,Pause empty hand,Pause empty hand,Pause empty hand
+User Inaction,Pause Full Hand,Pause Full Hand,Pause Full Hand,Pause full hand
+User Inaction,User slowing,User slowing,User slowing,Slow Movement
+User action,Audible Input,Audible Input,Audible Input,Interjection
+User action,Audible Input,Audible Input,Audible Input,Comment 
+User action,Audible Input,Audible Input,Audible Input,Question
+User action,Head movement,Head movement,Gaze Shift,Moving closer 
+User action,Head movement,Head movement,Gaze Shift,Moving farther back
+User action,Head movement,Head movement,Gaze Shift,Small 1D Gaze Shift
+User action,Head movement,Head movement,Gaze Shift,Large 1D Gaze Shift
+User action,Head movement,Head movement,Gaze Shift,Fixate on piece
+User action,Head movement,Head movement,Gaze Shift,Looking away
+User action,Head movement,Head movement,Gaze Shift,Looking around
+User action,Hand movements,Empty handed,Open Handed Gestures,Palm up
+User action,Hand movements,Empty handed,Open Handed Gestures,Pointing
+User action,Hand movements,Empty handed,Empty Handed Reach,Reaching towards wrong piece 
+User action,Hand movements,Empty handed,Retract after Reach ,Retract from wrong reach
+User action,Hand movements,Empty handed,Retract after Reach ,Retract from right reach
+User action,Hand movements,Empty handed,Retract after Contact,Retract from wrong contact
+User action,Hand movements,Empty handed,Retract after Contact,Retract from right contact
+User action,Hand movements,Hand full,Encumbered Gestures,Finger extension
+User action,Hand movements,Hand full,Shaking and Shifting,shaking piece 
+User action,Hand movements,Hand full,Shaking and Shifting,shaking structure
+User action,Hand movements,Hand full,Shaking and Shifting,Shifting alignment
+User action,Hand movements,Hand full,Repeated mid-air Rotation,Yaw 90
+User action,Hand movements,Hand full,Repeated mid-air Rotation,Yaw 180
+User action,Hand movements,Hand full,Repeated mid-air Rotation,Yaw 360
+User action,Hand movements,Hand full,Repeated mid-air Rotation,Pitch 90 
+User action,Hand movements,Hand full,Repeated mid-air Rotation,Pitch 180
+User action,Hand movements,Hand full,Repeated mid-air Rotation,Pitch 360
+User action,Hand movements,Hand full,Repeated mid-air Rotation,Roll 90 
+User action,Hand movements,Hand full,Repeated mid-air Rotation,Roll 180
+User action,Hand movements,Hand full,Repeated mid-air Rotation,Roll 360
+User action,Hand movements,Hand full,Encumbered Reaching ,Reaching with the wrong piece 
+User action,Hand movements,Hand full,Encumbered Reaching ,Reaching with the wrong orientation
+User action,Hand movements,Hand full,Retracting,Retracting with the right piece 
+User action,Hand movements,Hand full,Contact wrong piece,Touch wrong piece
+User action,Hand movements,Hand full,Contact wrong piece,Grasp wrong piece 
+User action,Hand movements,Hand full,Contact wrong piece,Pick-up wrong piece
+User action,Hand movements,Hand full,Proximity to Gaze,Increase Proximity to Gaze
+User action,Hand movements,Hand full,Proximity to Gaze,Decrease Proximity to Gaze
+User action,Hand movements,Hand full,Tool Manipulation,Wrong Tool
+User action,Hand movements,Hand full,Tool Manipulation,Missing Tool
+User action,Hand movements,Bimanual hand full,Repeated two-piece movement,Changing angle between pieces 
+User action,Hand movements,Bimanual hand full,Repeated two-piece movement,Touching pieces together
