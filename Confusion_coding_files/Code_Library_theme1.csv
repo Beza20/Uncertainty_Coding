@@ -1,0 +1,51 @@
+Theme1,Code
+Unknown cue,No apparent Cue
+Unknown cue,Builder history
+Physical object state,Incorrect subcomponent placement
+Physical object state,Incorrect subcomponent orientation
+Physical object state,Inconvenient subcomponent placement
+Physical object state,Inconvenient subcomponent orientation
+Physical object state,Incomplete Step
+Physical object state,Undo step
+User pause/time delay,Pause empty hand
+User pause/time delay,Pause full hand
+User hand movement,Slow Movement
+User verbal Interjections,Interjection
+User head movement,Moving closer 
+User head movement,Moving farther back
+User head movement,Small 1D Gaze Shift
+User head movement,Large 1D Gaze Shift
+User head movement,Fixate on piece
+User head movement,Looking away
+User head movement,Looking around
+User hand movement,Palm up
+User hand movement,Pointing
+User hand movement,Reaching towards wrong piece 
+User hand movement,Retract from wrong reach
+User hand movement,Retract from right reach
+User hand movement,Retract from wrong contact
+User hand movement,Retract from right contact
+User hand movement,Finger extension
+User hand movement,shaking piece 
+User hand movement,shaking structure
+User hand movement,Shifting alignment
+User hand movement,Yaw 90
+User hand movement,Yaw 180
+User hand movement,Yaw 360
+User hand movement,Pitch 90 
+User hand movement,Pitch 180
+User hand movement,Pitch 360
+User hand movement,Roll 90 
+User hand movement,Roll 180
+User hand movement,Roll 360
+User hand movement,Reaching with the wrong orientation
+User hand movement,Retracting with the right piece 
+User relation to object,Touch wrong piece
+User relation to object,Grasp wrong piece 
+User hand movement,Pick-up wrong piece
+User hand movement,Increase Proximity to Gaze
+User hand movement,Decrease Proximity to Gaze
+User relation to tool,Wrong Tool
+User relation to tool,Missing Tool
+User hand movement,Changing angle between pieces 
+User hand movement,Touching pieces together

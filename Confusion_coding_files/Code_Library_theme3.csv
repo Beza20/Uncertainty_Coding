@@ -1,0 +1,32 @@
+Theme 3,Code
+Hand gestures,Palm up
+Hand gestures,Pointing
+Hand gestures,Finger extension
+Empty-handed reach or retract,Reaching towards wrong piece 
+Empty-handed reach or retract,Retract from wrong reach
+Empty-handed reach or retract,Retract from right reach
+Empty-handed reach or retract,Retract from wrong contact
+Empty-handed reach or retract,Retract from right contact
+Slow movement,Slow Movement 
+"Repeated full-handed micro-movements
+",shaking piece 
+"Repeated full-handed micro-movements
+",shaking structure
+"Repeated full-handed micro-movements
+",Shifting alignment
+Repeated full-handed mid-air rotation,Yaw 90
+Repeated full-handed mid-air rotation,Yaw 180
+Repeated full-handed mid-air rotation,Yaw 360
+Repeated full-handed mid-air rotation,Pitch 90 
+Repeated full-handed mid-air rotation,Pitch 180
+Repeated full-handed mid-air rotation,Pitch 360
+Repeated full-handed mid-air rotation,Roll 90 
+Repeated full-handed mid-air rotation,Roll 180
+Repeated full-handed mid-air rotation,Roll 360
+Full-handed reach and retract,Reaching with the wrong orientation
+Full-handed reach and retract,Retracting with the right piece 
+Full-handed reach and retract,Pick-up wrong piece
+Full-handed reach and retract,Increase Proximity to Gaze
+Full-handed reach and retract,Decrease Proximity to Gaze
+Bimanual full-handed relative movements,Changing angle between pieces 
+Bimanual full-handed relative movements,Touching pieces together
