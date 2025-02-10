@@ -1,0 +1,10 @@
+Cues,Description,Code
+Unknown cue,Instances where an instructor intervenes but no implicit cue is observed in the duration of the clip,"No apparent Cue, Warning For future, Builder history"
+User verbal Interjections,Non-verbal sounds made by builder,Interjection
+User pause/time delay,Inaction of user's hands while holding an object or not,"Pause empty hand, Pause full hand"
+Physical object state,State of the object assembly ,"Incorrect subcomponent placement, Incorrect subcomponent orientation, Inconvenient subcomponent placement, Inconvenient subcomponent orientation, Incomplete Step, Step Undon"
+User head movement,Movement of builder's head perceived via movement of the egocentric camera,"Moving closer, Moving farther back, Small 1D Gaze Shift, Large 1D Gaze Shift, Looking away, Looking around"
+User hand movement,Hand Movements that show uncertainty  ,"Palm up, Pointing, Finger extension, Reaching towards wrong piece, Retract from wrong reach, Retract from right reach, Retract from wrong contact, Retract from right contact, Slow Movement, shaking piece, shaking structure, Shifting alignment, Yaw 90,180,360, Pitch 90,180,360, Roll 90, 180, 360, Reaching with the wrong orientation, Retracting with the right piece, Pick-up wrong piece, Increase Proximity to Gaze, Decrease Proximity to Gaze, Changing angle between pieces, Touching pieces together"
+User relation to object,User static hands in relation to object,Grasp wrong piece 
+User relation to tool,User interaction with tool,"Wrong tool, Missing Tool"
+Explicit Cues,"Videos that were incorrectly labeled as ""follow up"" but should have been labeled as r""answerng student""","Comment, Question"
