@@ -1,0 +1,48 @@
+Theme1,Code
+Gestures,Palm up
+Gestures,Pointing
+Gestures,Finger extension
+Non-verbal Interjections,Interjection
+User head movement,Moving closer
+User head movement,Moving farther back
+User head movement,Small 1D Gaze Shift
+User head movement,Large 1D Gaze Shift
+User head movement,Looking away
+User head movement,Looking around
+User pause/time delay,Pause empty hand
+User pause/time delay,Pause full hand
+Explicit(Verbal) Cues(Mislabeled Videos),Comment
+Explicit(Verbal) Cues(Mislabeled Videos),Question
+User Relation to Component,Grasp wrong piece
+User Relation to Component,Wrong tool
+User Relation to Component,Missing Tool
+User Hand Movement,Slow Movement
+User Hand Movement,shaking piece
+User Hand Movement,shaking structure
+User Hand Movement,Shifting alignment
+User Hand Movement,Yaw 90
+User Hand Movement,Yaw 180
+User Hand Movement,Yaw 60
+User Hand Movement,Pitch 90
+User Hand Movement,Pitch 180
+User Hand Movement,Pitch 360
+User Hand Movement,Roll 90
+User Hand Movement,Roll 180
+User Hand Movement,Roll 360
+User Hand Movement,Increase Proximity to Gaze
+User Hand Movement,Decrease Proximity to Gaze
+User Hand Movement,Changing angle between pieces
+User Hand Movement,Touching pieces together
+Object Movement,Reaching towards wrong piece
+Object Movement,Retract from wrong reach
+Object Movement,Retract from right reach
+Object Movement,Retract from wrong contact
+Object Movement,Retract from right contact
+Object Movement,Reaching with the wrong orientation
+Object Movement,Retracting with the right piece
+Object Movement,Pick-up wrong piece
+Object Movement,Object Movement
+Error,error
+unknown cue,No apparent Cue
+unknown cue,Warning For future
+unknown cue,Builder history
