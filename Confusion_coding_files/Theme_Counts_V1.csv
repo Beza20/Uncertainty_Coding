@@ -1,0 +1,11 @@
+Theme1,Code,Count
+Object Movement,reaching towards wrong pieceretract from wrong reachretract from right reachretract from wrong contactretract from right contactreaching with the wrong orientationretracting with the right piecepick-up wrong pieceobject movement,218
+User Hand Movement,slow movementshaking pieceshaking structureshifting alignmentyaw 90yaw 180yaw 60pitch 90pitch 180pitch 360roll 90roll 180roll 360increase proximity to gazedecrease proximity to gazechanging angle between piecestouching pieces together,166
+User pause/time delay,pause empty handpause full hand,115
+User head movement,moving closermoving farther backsmall 1d gaze shiftlarge 1d gaze shiftlooking awaylooking around,82
+Error,error,58
+unknown cue,no apparent cuewarning for futurebuilder history,40
+User Relation to Component,grasp wrong piecewrong toolmissing tool,19
+Gestures,palm uppointingfinger extension,8
+Explicit,commentquestion,5
+Non-verbal Interjections,interjection,4
