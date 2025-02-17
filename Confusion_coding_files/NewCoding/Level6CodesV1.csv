@@ -1,0 +1,25 @@
+Level6,Codes
+Repeated ,A1-Small gaze shift
+Repeated ,A1-Large gaze shift
+One-time ,A1-Bringing head closer 
+One-time ,A1-Taking a step back 
+One-time ,A1-Looking around 
+One-time ,A1-Looking away
+Repeated ,A2-Shaking
+Repeated ,A2-Rotation
+Repeated ,A2-Relative bimanual shifts  
+One-time ,A2-Bringing part closer 
+One-time ,A2-Push part away
+Tempo change,A2-Slow hesitant movements
+Reaching ,B1-Reaching toward wrong piece
+Retracting ,B1-Retracting from wrong reach 
+Retracting ,B1-Retracting from right reach 
+Retracting ,B1-Retracting from wrong contact
+Retracting ,B1-Retracting from right contact
+Reaching ,B2-Reaching with wrong orientation 
+Retracting ,B2-Retracting with right piece 
+Pick-up,B3-Grasp wrong piece
+Place ,B3-Erroneous intermediate state 
+Place ,B3-Inconvenient intermediate state 
+Place ,B4-Erroneous intermediate state 
+Place ,B4-Inconvenient intermediate state 

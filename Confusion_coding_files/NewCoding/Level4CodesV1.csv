@@ -1,0 +1,29 @@
+Level4,Codes
+Movement-based ,A1-Small gaze shift
+Movement-based ,A1-Large gaze shift
+Movement-based ,A1-Bringing head closer 
+Movement-based ,A1-Taking a step back 
+Movement-based ,A1-Looking around 
+Movement-based ,A1-Looking away
+Movement-based ,A2-Shaking
+Movement-based ,A2-Rotation
+Movement-based ,A2-Relative bimanual shifts  
+Movement-based ,A2-Bringing part closer 
+Movement-based ,A2-Push part away
+Movement-based ,A2-Slow hesitant movements
+Static,A3-Empty-handed pause 
+Static,A3-Full-handed pause 
+Movement-based ,B1-Reaching toward wrong piece
+Movement-based ,B1-Retracting from wrong reach 
+Movement-based ,B1-Retracting from right reach 
+Movement-based ,B1-Retracting from wrong contact
+Movement-based ,B1-Retracting from right contact
+Movement-based ,B2-Reaching with wrong orientation 
+Movement-based ,B2-Retracting with right piece 
+Movement-based ,B3-Grasp wrong piece
+Static,B3-Erroneous intermediate state 
+Static,B3-Inconvenient intermediate state 
+Static,B4-Erroneous intermediate state 
+Static,B4-Inconvenient intermediate state 
+Static,B5-Grasp wrong tool 
+Static,B5-Missing useful tool 

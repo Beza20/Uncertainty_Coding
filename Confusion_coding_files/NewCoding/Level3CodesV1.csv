@@ -1,0 +1,33 @@
+Level3,Codes
+gesture,empty-handed palm-up
+gesture,full-handed palm-up
+gesture,pointing
+interjection ,interjection 
+(A) Goal-agnoistic cues ,A1-Small gaze shift
+(A) Goal-agnoistic cues ,A1-Large gaze shift
+(A) Goal-agnoistic cues ,A1-Bringing head closer 
+(A) Goal-agnoistic cues ,A1-Taking a step back 
+(A) Goal-agnoistic cues ,A1-Looking around 
+(A) Goal-agnoistic cues ,A1-Looking away
+(A) Goal-agnoistic cues ,A2-Shaking
+(A) Goal-agnoistic cues ,A2-Rotation
+(A) Goal-agnoistic cues ,A2-Relative bimanual shifts  
+(A) Goal-agnoistic cues ,A2-Bringing part closer 
+(A) Goal-agnoistic cues ,A2-Push part away
+(A) Goal-agnoistic cues ,A2-Slow hesitant movements
+(A) Goal-agnoistic cues ,A3-Empty-handed pause 
+(A) Goal-agnoistic cues ,A3-Full-handed pause 
+(B) Goal-dependent cues ,B1-Reaching toward wrong piece
+(B) Goal-dependent cues ,B1-Retracting from wrong reach 
+(B) Goal-dependent cues ,B1-Retracting from right reach 
+(B) Goal-dependent cues ,B1-Retracting from wrong contact
+(B) Goal-dependent cues ,B1-Retracting from right contact
+(B) Goal-dependent cues ,B2-Reaching with wrong orientation 
+(B) Goal-dependent cues ,B2-Retracting with right piece 
+(B) Goal-dependent cues ,B3-Grasp wrong piece
+(B) Goal-dependent cues ,B3-Erroneous intermediate state 
+(B) Goal-dependent cues ,B3-Inconvenient intermediate state 
+(B) Goal-dependent cues ,B4-Erroneous intermediate state 
+(B) Goal-dependent cues ,B4-Inconvenient intermediate state 
+(B) Goal-dependent cues ,B5-Grasp wrong tool 
+(B) Goal-dependent cues ,B5-Missing useful tool 
