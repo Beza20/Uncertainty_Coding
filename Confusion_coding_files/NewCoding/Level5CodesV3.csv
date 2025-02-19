@@ -1,0 +1,25 @@
+Level5,Codes
+(A1) Head movement ,A1-Small gaze shift
+(A1) Head movement ,A1-Large gaze shift
+(A1) Head movement ,A1-Bringing head closer 
+(A1) Head movement ,A1-Taking a step back 
+(A1) Head movement ,A1-Looking around 
+(A1) Head movement ,A1-Looking away
+(A2) Full-handed movement ,A2-Shaking
+(A2) Full-handed movement ,A2-Rotation
+(A2) Full-handed movement ,A2-Relative bimanual shifts  
+(A2) Full-handed movement ,A2-Bringing part closer 
+(A2) Full-handed movement ,A2-Push part away
+(A2) Full-handed movement ,A2-Slow hesitant movements
+(A3) Inaction ,A3-Empty-handed pause 
+(A3) Inaction ,A3-Full-handed pause 
+(B1) Empty-handed movement,B1-Reaching toward wrong piece
+(B1) Empty-handed movement,B1-Retracting from wrong reach 
+(B1) Empty-handed movement,B1-Retracting from right reach 
+(B1) Empty-handed movement,B1-Retracting from wrong contact
+(B1) Empty-handed movement,B1-Retracting from right contact
+(B2) Full-handed movement ,B2-Reaching with wrong orientation 
+(B2) Full-handed movement ,B2-Retracting with right piece 
+(B3) While grasping ,B3-Grasp wrong piece
+(B3) While grasping ,B3-Erroneous intermediate state 
+(B3) While grasping ,B3-Inconvenient intermediate state 
