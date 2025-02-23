@@ -1,0 +1,38 @@
+Level1,Code
+Unknown cue ,Unknown cue 
+Unknown cue ,Unknown cue 
+Unknown cue ,Unknown cue 
+Explicit cue ,Comment
+Explicit cue ,Question
+Implicit Cue,empty-handed palm-up
+Implicit Cue,full-handed palm-up
+Implicit Cue,pointing
+Implicit Cue,interjection 
+Implicit Cue,ME-Erroneous intermediate state
+Implicit Cue,ME-Inconvenient intermediate state 
+Implicit Cue,ME-Grasp wrong tool 
+Implicit Cue,ME-Missing useful tool 
+Implicit Cue,A1-Small gaze shift
+Implicit Cue,A1-Large gaze shift
+Implicit Cue,A1-Bringing head closer 
+Implicit Cue,A1-Taking a step back 
+Implicit Cue,A1-Looking around 
+Implicit Cue,A1-Looking away
+Implicit Cue,A2-Shaking
+Implicit Cue,A2-Rotation
+Implicit Cue,A2-Relative bimanual shifts  
+Implicit Cue,A2-Bringing part closer 
+Implicit Cue,A2-Push part away
+Implicit Cue,A2-Slow hesitant movements
+Implicit Cue,IA-Empty-handed pause 
+Implicit Cue,IA-Full-handed pause 
+Implicit Cue,B1-Reaching toward wrong piece
+Implicit Cue,B1-Retracting from wrong reach 
+Implicit Cue,B1-Retracting from right reach 
+Implicit Cue,B1-Retracting from wrong contact
+Implicit Cue,B1-Retracting from right contact
+Implicit Cue,B2-Reaching with wrong orientation 
+Implicit Cue,B2-Retracting with right piece 
+Implicit Cue,B3-Grasp wrong piece
+Implicit Cue,B3-Erroneous intermediate state 
+Implicit Cue,B3-Inconvenient intermediate state 
