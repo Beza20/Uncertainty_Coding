@@ -1,0 +1,30 @@
+Level3,Codes
+gesture,empty-handed palm-up
+gesture,full-handed palm-up
+gesture,pointing
+interjection ,interjection 
+(A) Goal-agnoistic cues ,A1-gaze shift
+(A) Goal-agnoistic cues ,A1-Bringing head closer 
+(A) Goal-agnoistic cues ,A1-Taking a step back 
+(A) Goal-agnoistic cues ,A1-Looking around 
+(A) Goal-agnoistic cues ,A1-Looking away
+(A) Goal-agnoistic cues ,A2-Repeated shaking
+(A) Goal-agnoistic cues ,A2-Repeated rotation
+(A) Goal-agnoistic cues ,A2-Repeated shifting
+(A) Goal-agnoistic cues ,A2-Bringing part closer 
+(A) Goal-agnoistic cues ,A2-Slow hesitant movements
+Inaction,IA-Empty-handed pause 
+Inaction,IA-Full-handed pause 
+(B) Goal-dependent cues ,B1-Reaching toward incorrect piece
+(B) Goal-dependent cues ,B1-Retracting from incorrect reach
+(B) Goal-dependent cues ,B1-Retracting from correct reach
+(B) Goal-dependent cues ,B1-Retracting from correct contact
+(B) Goal-dependent cues ,B2-Reaching with incorrect orientation
+(B) Goal-dependent cues ,B2-Retracting with right piece 
+(B) Goal-dependent cues ,B2-Picking-up incorrect piece
+(B) Goal-dependent cues ,B2-Toward incorrect state
+(B) Goal-dependent cues ,B2-Toward inconvenient state 
+Mini Error,ME-Erroneous intermediate state
+Mini Error,ME-Inconvenient intermediate state 
+Mini Error,ME-Grasp wrong tool 
+Mini Error,ME-Missing useful tool 
